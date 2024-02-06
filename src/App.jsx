@@ -1,3 +1,4 @@
+
 import logo from './logo.svg';
 import './App.css';
 
@@ -17,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <img src="" alt="" />
       </header>
     </div>
   );
